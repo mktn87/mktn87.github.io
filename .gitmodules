@@ -1,0 +1,3 @@
+[submodule "3rdpartycookiecheck"]
+	path = 3rdpartycookiecheck
+	url = ./3rdpartycookiecheck
